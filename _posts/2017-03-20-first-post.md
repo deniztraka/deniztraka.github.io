@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deniz Trka, GitHub"
+title: "Deniz Traka, GitHub"
 date: 2017-03-20
 ---
 
