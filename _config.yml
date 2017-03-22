@@ -1,5 +1,5 @@
 name: Deniz Traka
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
 permalink: /blog/:year/:month/:day/:title
 paginate: 5
