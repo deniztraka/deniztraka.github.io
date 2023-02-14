@@ -13,6 +13,6 @@ This my first post using [Hexo](https://hexo.io/)!
     $ hexo new "My New Post"
     ```
 
-## Second title update
+## Second title update2
 
 More info: [Writing](https://hexo.io/docs/writing.html)
