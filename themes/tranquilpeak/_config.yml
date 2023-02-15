@@ -59,31 +59,15 @@ sidebar:
     author_links:
         github:
             title: global.github
-            url: https://github.com/
+            url: https://github.com/deniztraka
             icon: fab fa-github
-        stack_overflow:
-            title: global.stack_overflow
-            url: http://stackoverflow.com/users
-            icon: fab fa-stack-overflow
-        twitter:
-            title: global.twitter
-            url: https://twitter.com/
-            icon: fab fa-twitter
-        facebook:
-            title: global.facebook
-            url: https://facebook.com/
-            icon: fab fa-facebook
-        google_plus:
-            title: global.google_plus
-            url: https://plus.google.com/
-            icon: fab fa-google-plus
         linked_in:
             title: global.linkedin
-            url: https://www.linkedin.com/profile/
+            url: https://www.linkedin.com/in/deniz-traka/
             icon: fab fa-linkedin
         mail:
             title: global.mail
-            url: mailto
+            url: mailto:deniz.traka@gmail.com
             icon: fa fa-envelope
     rss:
         rss:
@@ -117,13 +101,13 @@ header:
 
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
-    email:
-    location:
+    email: deniz.traka@gmail.com
+    location: https://media.licdn.com/dms/image/D4E03AQGNy574PUs23g/profile-displayphoto-shrink_800_800/0/1675774851988?e=1681948800&v=beta&t=YFtDYJ_GRMfN4P1ebT9ibdKoEDw4prirUgGRx7uEQm8
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
     # or you can use an external url
     # Overwritten by your gravatar image if `gravatar_email` is filled
-    picture:
+    picture: https://media.licdn.com/dms/image/D4E03AQGNy574PUs23g/profile-displayphoto-shrink_800_800/0/1675774851988?e=1681948800&v=beta&t=YFtDYJ_GRMfN4P1ebT9ibdKoEDw4prirUgGRx7uEQm8
     # Your Twitter username without the @. E.g : `tranquilpeak`
     twitter:
     # Your personal google plus profile id, not your blog or business page id.
@@ -150,7 +134,7 @@ author:
 # large sidebar is swiped on all lower screens
 # 5: Display header bar on all screens and large sidebar is swiped on large screen
 # 6: Display header bar on all screens and medium sidebar is swiped
-sidebar_behavior: 1
+sidebar_behavior: 3
 # Hide sidebar on all article page to let article take full width to improve reading, and
 # enjoy wide images and cover images. (true: enable, false: disable)
 clear_reading: true
@@ -172,7 +156,7 @@ auto_thumbnail_image: true
 # Otherwise put your image in folder `source/_images/` (development)
 # or in `source/assets/images/` if you can't or don't want to build the theme,
 # and use relative url : `your-image.png`
-cover_image: cover.jpg
+cover_image: darkocean.jpg
 # Your favicon located in folder `source/_images/` (development) or in `source/assets/images/` (production)
 favicon:
 # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
@@ -187,7 +171,7 @@ tag_pagination: true
 # ---------------
 
 # Your Disqus shortname
-disqus_shortname:
+disqus_shortname: deniztraka
 # Your Gitment information
 # Read https://github.com/imsun/gitment#get-started to setup Gitment
 gitment:
@@ -275,13 +259,13 @@ sharing_options:
     twitter:
         icon: "fab fa-twitter"
         url: "https://twitter.com/intent/tweet?text={{post.permalink}}"
-    google_plus:
-        icon: "fab fa-google-plus"
-        url: "https://plus.google.com/share?url={{post.permalink}}"
+#   google_plus:
+#       icon: "fab fa-google-plus"
+#       url: "https://plus.google.com/share?url={{post.permalink}}"
 # Business Social Networks
-#    linkedin:
-#        icon: "fab fa-linkedin"
-#        url: "https://www.linkedin.com/shareArticle?mini=true&url={{post.permalink}}"
+    linkedin:
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/shareArticle?mini=true&url={{post.permalink}}"
 #    xing:
 #        icon: "fab fa-xing"
 #        url: "https://www.xing.com/spi/shares/new?url={{post.permalink}}"
