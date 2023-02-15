@@ -171,7 +171,7 @@ tag_pagination: true
 # ---------------
 
 # Your Disqus shortname
-disqus_shortname: deniztraka
+disqus_shortname: deniztraka-github-io
 # Your Gitment information
 # Read https://github.com/imsun/gitment#get-started to setup Gitment
 gitment:
