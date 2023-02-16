@@ -102,7 +102,7 @@ header:
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
     email: deniz.traka@gmail.com
-    location: https://media.licdn.com/dms/image/D4E03AQGNy574PUs23g/profile-displayphoto-shrink_800_800/0/1675774851988?e=1681948800&v=beta&t=YFtDYJ_GRMfN4P1ebT9ibdKoEDw4prirUgGRx7uEQm8
+    location: Amsterdam
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
     # or you can use an external url
@@ -112,10 +112,10 @@ author:
     twitter:
     # Your personal google plus profile id, not your blog or business page id.
     # E.g : `+JohnDoe` or `123812884128439`
-    google_plus:
+    # google_plus:
     # Your businnes google plus profile id. If not provided, personal will be used instead.
     # E.g : `+Tranquilpeak` or `123812884128439`
-    google_plus_business:
+    # google_plus_business:
 
 
 # -------------

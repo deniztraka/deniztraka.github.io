@@ -1,7 +1,6 @@
 ---
 title: first test post
 date: 2023-02-15 00:00:02
-tags:
 ---
 This my first post using [Hexo](https://hexo.io/)! 
 
